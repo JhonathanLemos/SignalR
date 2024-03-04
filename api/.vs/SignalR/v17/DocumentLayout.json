@@ -1,0 +1,597 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\identidade\\identidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\identidade\\identidadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\tokenvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\tokenvalidationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\signalr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\signalr.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|C:\\Users\\lemos\\source\\repos\\SignalR\\api\\signalr.application\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\properties\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\messagechanels\\mapper\\messagechannelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\messagechanels\\mapper\\messagechannelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\users\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\users\\mapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\solicitations\\mapper\\solicitationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\solicitations\\mapper\\solicitationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\userservers\\mapper\\userserverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\userservers\\mapper\\userserverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\servers\\mapper\\serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\servers\\mapper\\serverprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\messages\\mapper\\messageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\messages\\mapper\\messageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\friendships\\mapper\\friendshipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\friendships\\mapper\\friendshipprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\emailcodes\\mapper\\emailcodeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\emailcodes\\mapper\\emailcodeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\conversations\\mapper\\conversationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\conversations\\mapper\\conversationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\channels\\mapper\\channelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\channels\\mapper\\channelprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\messagechannelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\messagechannelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\controllers\\conversationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\dtos\\userandcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\dtos\\userandcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\messagechanels\\messagechanneldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\messagechanels\\messagechanneldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\messages\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\messages\\messagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\emailcodes\\emailcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\emailcodes\\emailcodedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\userservers\\userserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\userservers\\userserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\solicitations\\solicitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\solicitations\\solicitationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\friendships\\friendshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\friendships\\friendshipdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\servers\\createorupdateserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\servers\\createorupdateserverdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\conversations\\createorupdateconversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\conversations\\createorupdateconversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\conversations\\conversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\conversations\\conversationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.application\\channels\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F325B6-1D20-400B-A5CA-8B060F326F52}|SignalR.Application\\SignalR.Application.csproj|solutionrelative:signalr.application\\channels\\channeldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7EDE3D7-05D5-4622-98A3-67D29C472F94}|SignalR.Infra\\SignalR.Infra.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7EDE3D7-05D5-4622-98A3-67D29C472F94}|SignalR.Infra\\SignalR.Infra.csproj|solutionrelative:signalr.infra\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3F8A78-062C-41E0-9D1C-FB0A409CDFD6}|SignalR.Domain\\SignalR.Domain.csproj|c:\\users\\lemos\\source\\repos\\signalr\\api\\signalr.domain\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3F8A78-062C-41E0-9D1C-FB0A409CDFD6}|SignalR.Domain\\SignalR.Domain.csproj|solutionrelative:signalr.domain\\models\\channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserServerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\UserServers\\Mapper\\UserServerProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\UserServers\\Mapper\\UserServerProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\UserServers\\Mapper\\UserServerProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\UserServers\\Mapper\\UserServerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:59.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Servers\\Mapper\\ServerProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Servers\\Mapper\\ServerProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Servers\\Mapper\\ServerProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Servers\\Mapper\\ServerProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:55.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MessageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Messages\\Mapper\\MessageProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Messages\\Mapper\\MessageProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Messages\\Mapper\\MessageProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Messages\\Mapper\\MessageProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:51.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmailCodeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\EmailCodes\\Mapper\\EmailCodeProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\EmailCodes\\Mapper\\EmailCodeProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\EmailCodes\\Mapper\\EmailCodeProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\EmailCodes\\Mapper\\EmailCodeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:44.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAcwIcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:49:01.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalR.Application\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalR.Application\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T14:16:22.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalR.Application\\appsettings.json",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\appsettings.json",
+              "RelativeToolTip": "SignalR.Application\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-28T13:51:47.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SolicitationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Solicitations\\Mapper\\SolicitationProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Solicitations\\Mapper\\SolicitationProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Solicitations\\Mapper\\SolicitationProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Solicitations\\Mapper\\SolicitationProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:51:03.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Program.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Program.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Program.cs",
+              "RelativeToolTip": "SignalR.Application\\Program.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAmwH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:35:50.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentidadeService.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Identidade\\IdentidadeService.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Identidade\\IdentidadeService.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Identidade\\IdentidadeService.cs",
+              "RelativeToolTip": "SignalR.Application\\Identidade\\IdentidadeService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:49:57.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenValidationController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\TokenValidationController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\TokenValidationController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\TokenValidationController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\TokenValidationController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T17:19:15.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T14:13:40.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Properties\\Resource.resx",
+              "RelativeDocumentMoniker": "SignalR.Application\\Properties\\Resource.resx",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Properties\\Resource.resx",
+              "RelativeToolTip": "SignalR.Application\\Properties\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-02-28T14:54:37.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignalR.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\SignalR.Application.csproj",
+              "RelativeDocumentMoniker": "SignalR.Application\\SignalR.Application.csproj",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\SignalR.Application.csproj",
+              "RelativeToolTip": "SignalR.Application\\SignalR.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-28T14:58:56.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FriendShipProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Friendships\\Mapper\\FriendShipProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Friendships\\Mapper\\FriendShipProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Friendships\\Mapper\\FriendShipProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Friendships\\Mapper\\FriendShipProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:41.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ConversationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\Mapper\\ConversationProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Conversations\\Mapper\\ConversationProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\Mapper\\ConversationProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Conversations\\Mapper\\ConversationProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:28.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Users\\Mapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Users\\Mapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Users\\Mapper\\UserProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Users\\Mapper\\UserProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:51:06.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MessageChannelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\MessageChanels\\Mapper\\MessageChannelProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\MessageChanels\\Mapper\\MessageChannelProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\MessageChanels\\Mapper\\MessageChannelProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\MessageChanels\\Mapper\\MessageChannelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:51:18.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChannelProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Channels\\Mapper\\ChannelProfile.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Channels\\Mapper\\ChannelProfile.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Channels\\Mapper\\ChannelProfile.cs",
+              "RelativeToolTip": "SignalR.Application\\Channels\\Mapper\\ChannelProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:50:24.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:49:32.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MessageChannelController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\MessageChannelController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\MessageChannelController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\MessageChannelController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\MessageChannelController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:49:26.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ConversationController.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\ConversationController.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Controllers\\ConversationController.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Controllers\\ConversationController.cs",
+              "RelativeToolTip": "SignalR.Application\\Controllers\\ConversationController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAA9wAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:48:49.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UserAndCode.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Dtos\\UserAndCode.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Dtos\\UserAndCode.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Dtos\\UserAndCode.cs",
+              "RelativeToolTip": "SignalR.Application\\Dtos\\UserAndCode.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:45:59.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Users\\UserDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Users\\UserDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Users\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:44:09.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MessageChannelDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\MessageChanels\\MessageChannelDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\MessageChanels\\MessageChannelDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\MessageChanels\\MessageChannelDto.cs",
+              "RelativeToolTip": "SignalR.Application\\MessageChanels\\MessageChannelDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:45:51.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MessageDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Messages\\MessageDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Messages\\MessageDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Messages\\MessageDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Messages\\MessageDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:45:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailCodeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\EmailCodes\\EmailCodeDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\EmailCodes\\EmailCodeDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\EmailCodes\\EmailCodeDto.cs",
+              "RelativeToolTip": "SignalR.Application\\EmailCodes\\EmailCodeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:45:09.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserServerDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\UserServers\\UserServerDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\UserServers\\UserServerDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\UserServers\\UserServerDto.cs",
+              "RelativeToolTip": "SignalR.Application\\UserServers\\UserServerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:44:55.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SolicitationDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Solicitations\\SolicitationDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Solicitations\\SolicitationDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Solicitations\\SolicitationDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Solicitations\\SolicitationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:44:33.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FriendshipDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Friendships\\FriendshipDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Friendships\\FriendshipDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Friendships\\FriendshipDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Friendships\\FriendshipDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:43:45.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CreateOrUpdateServerDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Servers\\CreateOrUpdateServerDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Servers\\CreateOrUpdateServerDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Servers\\CreateOrUpdateServerDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Servers\\CreateOrUpdateServerDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:43:16.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CreateorUpdateConversationDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\CreateorUpdateConversationDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Conversations\\CreateorUpdateConversationDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\CreateorUpdateConversationDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Conversations\\CreateorUpdateConversationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:43:11.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ConversationDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\ConversationDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Conversations\\ConversationDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Conversations\\ConversationDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Conversations\\ConversationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:42:47.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ChannelDto.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Channels\\ChannelDto.cs",
+              "RelativeDocumentMoniker": "SignalR.Application\\Channels\\ChannelDto.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Application\\Channels\\ChannelDto.cs",
+              "RelativeToolTip": "SignalR.Application\\Channels\\ChannelDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:42:33.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SignalR.Infra\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Infra\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SignalR.Infra\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAkwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:37:57.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Channel.cs",
+              "DocumentMoniker": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Domain\\Models\\Channel.cs",
+              "RelativeDocumentMoniker": "SignalR.Domain\\Models\\Channel.cs",
+              "ToolTip": "C:\\Users\\lemos\\source\\repos\\SignalR\\api\\SignalR.Domain\\Models\\Channel.cs",
+              "RelativeToolTip": "SignalR.Domain\\Models\\Channel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T13:37:24.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

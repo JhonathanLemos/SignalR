@@ -1,0 +1,53 @@
+.mensagens {
+  width: 100%;
+  padding: 10px;
+  background-color: #111b21;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.friends {
+  width: 100%;
+  height: 100vh;
+  margin: auto;
+  background-color: #111b21;
+}
+
+p {
+  margin: 0;
+  font-weight: 500 !important;
+  color: white;
+}
+
+span {
+    margin: 0;
+    font-weight: 300 !important;
+    font-size: 12px !important;
+    color: white;
+  }
+
+.bola {
+    width: 60px;
+    margin-left: 15px;
+    height: 50px;
+    background-color: transparent;
+    border-radius: 50%;
+    border: solid 1px white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+
+  hr{
+    border: 0.45px solid rgba(255, 255, 255, 0.1);
+    width: 90%;
+  }
+
+
+  .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }

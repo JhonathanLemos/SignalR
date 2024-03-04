@@ -1,0 +1,80 @@
+.bola {
+  width: 60px;
+  /* Largura da bola */
+  height: 60px;
+  /* Altura da bola */
+  background-color: transparent;
+  /* Cor de fundo da bola */
+  border-radius: 50%;
+  /* Faz a div circular */
+  border: solid 1px black;
+  margin-bottom: 10px;
+  display: flex;
+  /* Usando flexbox para centralizar o conteúdo verticalmente */
+  align-items: center;
+  /* Centraliza verticalmente o conteúdo */
+  justify-content: center;
+  /* Centraliza horizontalmente o conteúdo */
+}
+
+.bola2 {
+  width: 60px;
+  /* Largura da bola */
+  height: 60px;
+  /* Altura da bola */
+  background-color: transparent;
+  /* Cor de fundo da bola */
+  border-radius: 50%;
+  /* Faz a div circular */
+  border: solid 1px black;
+  display: flex;
+  /* Usando flexbox para centralizar o conteúdo verticalmente */
+  align-items: center;
+  /* Centraliza verticalmente o conteúdo */
+  justify-content: center;
+  /* Centraliza horizontalmente o conteúdo */
+}
+
+.plusSymbol {
+  font-size: 20px;
+  /* Tamanho do símbolo */
+}
+
+.userName {
+  font-size: 16px;
+  /* Tamanho da fonte */
+  font-weight: bold;
+  /* Negrito */
+}
+
+.friends {
+  width: auto;
+  height: 90vh;
+  padding: 30px;
+  background-color: #dfdfdf;
+  box-sizing: border-box;
+
+}
+
+.friends span {
+  margin: 10px;
+}
+
+
+.conteudo {
+  display: block;
+  box-sizing: border-box;
+  height: 90vh;
+}
+
+.servers {
+  width: 100px;
+  height: 100vh;
+  background-color: #dfdfdf;
+
+}
+
+.mensagens{
+  width: 100%;
+  box-sizing: border-box;
+}

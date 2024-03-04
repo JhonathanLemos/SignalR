@@ -1,0 +1,64 @@
+.addFriends {
+    width: 60%;
+    padding: 30px;
+    background-color: #202C33;
+}
+
+h3 {
+    font-weight: 300;
+    margin: 0;
+}
+
+.conteudo {
+    box-sizing: border-box !important;
+}
+
+.solicitations {
+    width: 30%;
+    height: 100vh;
+    padding: 10px;
+    box-sizing: border-box !important;
+    background-color: #111b21;
+}
+
+.solicitations {}
+
+.solicitations span {
+    margin-right: 10px;
+}
+
+
+
+
+.form {
+    margin-top: 10px;
+}
+
+.form mat-form-field {
+    width: 100%;
+}
+
+.direct {
+    width: 30%;
+}
+
+.new-conversation {
+    box-sizing: border-box !important;
+    width: 60%;
+    height: 100vh;
+}
+
+span {
+    color: white;
+}
+
+.item {
+    padding: 10px;
+    margin: 10px;
+    border: 0.45px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+}
+
+.btn {
+    margin: 5px;
+}

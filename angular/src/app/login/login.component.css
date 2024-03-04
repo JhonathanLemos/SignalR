@@ -1,0 +1,103 @@
+.background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    background-size: cover; /* Redimensiona a imagem para preencher a div */
+    /* Coloca o background atrás do conteúdo */
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+    margin: auto;
+    width: 100%;
+}
+
+.formulario {
+    border:0.45px solid rgb(240, 239, 239);
+    width: 40%;
+    background-color: rgb(253, 253, 253) !important;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: start !important;
+}
+
+
+.text {
+    font-size: 14px;
+    margin-bottom: 20px;
+    font-weight: 100;
+
+}
+
+.text2 {
+    margin: 0;
+
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.boas-vindas{
+    text-align: center;
+}
+
+
+/* .qrCode{
+    width: 40%;
+    height: 80px;
+} */
+mat-form-field {
+    width: 100%;
+    margin-bottom: 15px;
+}
+
+.button {
+    width: 100%;
+    background-color: #071422;
+    border: none;
+    color: white;
+    height: 35px;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+p {
+    text-align: center;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+p:hover {
+    color: #3a3d41;
+}
+
+
+.invalid-button {
+    background-color: #3a3d41; /* Cor de fundo vermelha para botão inválido */
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  .margin-form {
+    width: 100%;
+    margin-bottom: 45px;
+}
+
+
+mat-hint{
+    color: red;
+    text-align: justify;
+}
+
+
+.custom-password-field[type="password"]::-webkit-contacts-auto-fill-button,
+.custom-password-field[type="password"]::-webkit-credentials-auto-fill-button {
+  visibility: hidden !important;
+  display: none !important;
+}

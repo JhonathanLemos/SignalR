@@ -1,0 +1,37 @@
+.conteudo {
+    display: block;
+    color: white;
+    width: 100%;
+    text-align: center; /* Centraliza o texto */
+    box-sizing: border-box;
+}
+
+h2{
+    font-weight: 400;
+}
+
+mat-form-field{
+    color: aliceblue !important;
+    border-color: aliceblue !important;
+}
+
+
+
+.form{
+    margin: auto;
+    width: 500px;
+    margin-top: 10px;
+}
+
+h2{
+}
+
+.conteudo{
+    background-color: #313338;
+    padding: 10px;
+}
+
+
+
+
+

@@ -1,0 +1,45 @@
+<div class="container">
+	<div class="topo">
+		<div class="bola">
+			{{ userName.userName | firstLetter }}
+		</div>
+		<div class="userName">
+			{{ userName.userName }}
+		</div>
+	</div>
+	<div #container
+		class="segura-mensagens">
+		<ng-template [ngForOf]="listMessages"
+			ngFor
+			let-message
+			let-i="index">
+			<div class="message-line">
+				<div [ngClass]="{
+					message: userId == message.senderId,
+					'message-2': userId != message.senderId
+				  }">
+					<div *ngIf="userId == message.senderId; else elseBlock" class="user-name">Você</div>
+					<ng-template #elseBlock><div class="user-name">{{ capitalize(message.senderName) }}</div></ng-template>
+					<div>{{ capitalize(message.conteudo) }}</div>
+				  </div>
+			</div>
+		</ng-template>
+	</div>
+	<div class="footer">
+		<mat-form-field appearance="outline"
+			class="input">
+			<mat-label>
+				Escreva sua mensagem
+			</mat-label>
+			<input [formControl]="messageControl"
+				matInput>
+		</mat-form-field>
+		<button (click)="sendMessages()"
+			class="btn"
+			color="primary"
+			mat-mini-fab
+			aria-label="Enviar">
+			<mat-icon>send</mat-icon>
+		</button>
+	</div>
+</div>

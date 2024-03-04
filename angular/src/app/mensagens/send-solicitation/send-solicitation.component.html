@@ -1,0 +1,10 @@
+<div class="addFriends-fundo">
+    <h3>Adicionar Amigos</h3>
+    <form [formGroup]="formulario" class="form">
+        <mat-form-field appearance="outline" color="primary">
+            <mat-label>Código</mat-label>
+            <input class="input" matInput formControlName="codigoAmizade">
+            <mat-icon (click)="sendSolicitation()" matSuffix>done</mat-icon>
+        </mat-form-field>
+    </form>
+<div>

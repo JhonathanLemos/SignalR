@@ -1,0 +1,17 @@
+<div class="conteudo">
+    <div  *ngFor="let item of listaServidores" class="bola" (click)="openServer(item.id)">
+      <span  class="userName">{{ item.serverName }}</span>
+    </div>
+    <div class="servers">
+
+      <div class="bola2" (click)="redirectToHome()">
+        <span class="plusSymbol">Home</span>
+      </div>
+      
+      <div class="bola2" (click)="redirectToCreateServer()">
+        <span class="plusSymbol">+</span>
+      </div>
+    </div>
+   
+  </div>
+  

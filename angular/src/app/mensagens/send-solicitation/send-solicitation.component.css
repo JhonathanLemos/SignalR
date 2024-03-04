@@ -1,0 +1,32 @@
+
+.addFriends-fundo{
+    background-color: #111b21;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3{
+    color: white;
+    font-weight: 300;
+}
+
+input::placeholder{
+    color: white !important;
+}
+
+input::content{
+    color: white !important;
+}
+
+input{
+    color: white !important;
+}
+
+
+mat-label{
+    color: white;
+}
+
+mat-icon{
+    color: white;
+}

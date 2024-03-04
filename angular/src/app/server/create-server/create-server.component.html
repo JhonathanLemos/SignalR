@@ -1,0 +1,17 @@
+<div class="conteudo">
+    <div>
+
+        <h2>Novo Servidor</h2>
+        
+        <form [formGroup]="serverForm" class="form">
+            <mat-form-field class="form" appearance="outline" color="primary">
+                <mat-label>Nome do servidor</mat-label>
+                <input class="input" matInput formControlName="serverName">
+            </mat-form-field>
+        </form>
+        <button type="submit" (click)="onSubmit()" [disabled]="serverForm.invalid">Criar</button>
+    </div>
+
+    
+</div>
+

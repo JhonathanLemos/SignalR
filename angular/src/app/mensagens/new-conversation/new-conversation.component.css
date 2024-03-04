@@ -1,0 +1,106 @@
+.message-line {
+  width: 100%;
+  padding: 10px;
+}
+.message {
+  padding: 10px;
+  border-radius: 10px;
+  margin-left: auto;
+  background-color: #0a977e;
+  width: 200px;
+  margin-right: 20px;
+}
+
+.message-2 {
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: auto;
+  background-color: rgb(255, 255, 255);
+  width: 200px;
+}
+
+mat-form-field {
+  width: 90%;
+  margin-top: 10px;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  box-sizing: border-box;
+  background-color: #202c33;
+}
+
+.segura-mensagens {
+  margin-left: 20px;
+  height: 80%;
+  width: 100% !important;
+  overflow-y: auto;
+  overflow-x: hidden;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.segura {
+  overflow: hidden;
+}
+
+.footer {
+  width: 100%;
+  height: 10%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  background-color: #111b21;
+}
+
+.btn {
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.topo {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  padding: 10px 0px;
+  height: 60px;
+  background-color: #111b21;
+  margin-bottom: 10px;
+}
+
+.bola {
+  width: 50px;
+  margin-left: 15px;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 50%;
+  border: solid 1px white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
+.userName {
+  margin-left: 10px;
+  color: white;
+}
+
+input::placeholder{
+  color: white !important;
+}
+
+input::content{
+  color: white !important;
+}
+
+input{
+  color: white !important;
+}
+
+mat-label{
+  color: white;
+}

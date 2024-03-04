@@ -1,0 +1,27 @@
+<div class="conteudo">
+
+    <div class="direct">
+
+        <app-direct (updateConversation)="updateConversation()" (sendInfo)="atualizarShow()" [userId]="userId"
+            [show]="show"></app-direct>
+    </div>
+
+    <div *ngIf="!show" class="new-conversation">
+
+        <app-new-conversation  [updateNewConversation]="updateNewConversation" ></app-new-conversation>
+    </div>
+
+    <div *ngIf="show" class="addFriends">
+        <app-send-solicitation></app-send-solicitation>
+        <app-new-direct [listaAmigos]="listaAmigos" [userId]="userId"></app-new-direct>
+    </div>
+    <div class="solicitations">
+
+        <div class="item" *ngFor="let item of listaSolicitations">
+            <span>{{item.secondUserName}}</span>
+            <button  class="btn" (click)="acceptSolicitaton(item)" mat-stroked-button color="primary">Aceitar</button>
+            <button class="btn" (click)="denySolicitaton(item)" mat-stroked-button color="warn">Recusar</button>
+
+        </div>
+    </div>
+</div>

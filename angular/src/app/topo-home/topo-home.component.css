@@ -1,0 +1,52 @@
+/* app.component.css */
+
+
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: #111111; /* Cinza Escuro */
+    color: #ffffff; /* Texto branco para contrastar */
+    height: 80px;
+}
+
+.icone-container {
+    display: flex;
+    align-items: center;
+}
+
+.icone {
+    font-size: 24px;
+    margin-right: 20px;
+    color: #ffffff; /* Cor do ícone branco */
+}
+
+.icone:hover{
+    color: #DC202D !important;
+}
+
+h1 {
+    margin: 0;
+    font-size: 28px;
+}
+
+
+/* Adicione este código ao seu arquivo de estilos CSS */
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+.menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #ffffff; /* Cor do texto branco */
+}
+
+.menu a:hover {
+    text-decoration: underline;
+    color: #DC202D;
+}
+
+

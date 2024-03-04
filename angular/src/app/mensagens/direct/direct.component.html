@@ -1,0 +1,26 @@
+<div class="friends">
+  <mat-icon *ngIf="!show" (click)="changeShow()">keyboard_backspace</mat-icon>
+  <p>Friend Code: {{ userCode }}</p>
+  <div *ngFor="let item of listaMensagens">
+    <div class="container">
+      <div class="bola">E</div>
+      <div
+        *ngIf="
+          (item.show && item.lastMessage != null) ||
+          (!item.show && item.lastMessage != '')
+        "
+        (click)="openNew(item)"
+        class="mensagens"
+      >
+        <p>{{ item.userName }}</p>
+        <span>{{ item.firstUserId != userId ? "" : "Você: " }}</span>
+        <span>{{ capitalize(item.lastMessage) }}</span>
+      </div>
+      
+    </div>
+    <hr>
+  </div>
+  <!-- <button (click)="createNewConversation()" color="primary" mat-mini-fab>
+        <mat-icon>add</mat-icon>
+      </button> -->
+</div>

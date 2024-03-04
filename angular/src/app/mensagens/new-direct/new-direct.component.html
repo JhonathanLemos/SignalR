@@ -1,0 +1,6 @@
+<div class="lista-amigos" *ngFor="let item of listaAmigos">
+    <p>{{item.userName}}</p>
+    <button (click)="createNewConversation(item)" mat-mini-fab color="primary" aria-label="Example icon button with a menu icon">
+        <mat-icon>add</mat-icon>
+      </button>
+    </div>
